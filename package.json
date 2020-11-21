@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://monster-rolodex.s3-website.us-east-2.amazonaws.com",
+  "homepage": "https://gifted-shirley-d8a43d.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
